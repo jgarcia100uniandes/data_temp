@@ -1,12 +1,25 @@
+d5d3d42,j.garcia100@uniandes.edu.co,Tue Apr 19 07:59:38 2016 -0500,1187,288,Merge pull request #17 from MISO4203-201610/R7
+707077d,j.garcia100@uniandes.edu.co,Tue Apr 19 07:52:46 2016 -0500,1187,288,Merge branch 'master' into R7
+ace16e1,ls.talero21@uniandes.edu.co,Tue Apr 19 01:10:57 2016 -0500,1000,288,R7 Front
+1b8c838,j.garcia100@uniandes.edu.co,Mon Apr 18 22:53:59 2016 -0500,1170,288,Technical debt
+15522f6,j.garcia100@uniandes.edu.co,Mon Apr 18 22:48:03 2016 -0500,1170,288,Merge Ludwing
+564214e,j.garcia100@uniandes.edu.co,Mon Apr 18 22:43:53 2016 -0500,1041,288,Merge pull request #16 from MISO4203-201610/R8
+b1427eb,j.garcia100@uniandes.edu.co,Mon Apr 18 22:37:01 2016 -0500,1109,288,Merge branch 'master' into Ludwing
+9168c5f,j.garcia100@uniandes.edu.co,Mon Apr 18 22:32:59 2016 -0500,1041,288,Merge R8
+f553845,j.garcia100@uniandes.edu.co,Mon Apr 18 22:21:53 2016 -0500,1045,288,Merge
 d93c5de,j.garcia100@uniandes.edu.co,Mon Apr 18 19:50:05 2016 -0500,980,288,R9 Technical debt
 bb7cc53,j.garcia100@uniandes.edu.co,Mon Apr 18 18:49:12 2016 -0500,983,288,Merge pull request #15 from MISO4203-201610/R9
 4f761d6,j.garcia100@uniandes.edu.co,Mon Apr 18 18:41:07 2016 -0500,983,288,R9 test
 c158530,j.garcia100@uniandes.edu.co,Mon Apr 18 18:01:13 2016 -0500,983,288,R9 test
 078652f,j.garcia100@uniandes.edu.co,Mon Apr 18 17:50:01 2016 -0500,983,288,Merge branch 'master' into R9
 91b419f,j.garcia100@uniandes.edu.co,Mon Apr 18 17:48:47 2016 -0500,965,288,R9 test
+2ef7dc0,ludwingbd79@gmail.com,Mon Apr 18 16:35:34 2016 -0500,1007,264,R10 creacion pantallas para chat
 c1fbf66,j.garcia100@uniandes.edu.co,Mon Apr 18 05:37:44 2016 -0500,896,264,Merge pull request #14 from MISO4203-201610/R6
 67fdb6e,jhoning.soft@gmail.com,Sun Apr 17 23:45:13 2016 -0500,896,264,R6 - add state
 61d3060,jhoning.soft@gmail.com,Sun Apr 17 22:48:04 2016 -0500,890,264,R6
+2bc8b0c,jc.cerquera10@uniandes.edu.co,Sun Apr 17 20:56:27 2016 -0500,945,264,implementacion R8
+e7e9ef5,jc.cerquera10@uniandes.edu.co,Sun Apr 17 20:46:13 2016 -0500,945,264,implementación R8
+f371668,jc.cerquera10@uniandes.edu.co,Sun Apr 17 19:58:57 2016 -0500,942,264,implementación R8
 b97808b,j.garcia100@uniandes.edu.co,Sun Apr 17 19:48:20 2016 -0500,964,264,R9
 03d7c34,j.garcia100@uniandes.edu.co,Sun Apr 17 18:53:43 2016 -0500,980,264,R9 finished
 36b9c9d,j.garcia100@uniandes.edu.co,Sat Apr 16 21:57:38 2016 -0500,972,264,R9 adding field

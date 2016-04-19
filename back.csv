@@ -1,0 +1,134 @@
+4ad0648,j.garcia100@uniandes.edu.co,Tue Apr 19 08:09:41 2016 -0500,1592,,1851,,2530,,1400,,Merge pull request #19 from MISO4203-201610/R7
+cf24c18,j.garcia100@uniandes.edu.co,Tue Apr 19 07:54:03 2016 -0500,1592,,1851,,2530,,1400,,Merge branch 'master' into R7
+c7e2783,ls.talero21@uniandes.edu.co,Tue Apr 19 01:13:13 2016 -0500,1354,1277,1851,1851,2245,2238,1400,1400,R7 Back
+d966e18,j.garcia100@uniandes.edu.co,Mon Apr 18 22:33:35 2016 -0500,1515,1277,1851,1851,2523,2238,1400,1400,Merge pull request #18 from MISO4203-201610/Ludwing
+01b06f0,j.garcia100@uniandes.edu.co,Mon Apr 18 22:24:44 2016 -0500,1515,1515,1851,1851,2523,2523,1400,1400,Bug
+d7404e0,ludwingbd79@gmail.com,Mon Apr 18 19:44:40 2016 -0500,1515,1515,1851,1851,2523,2523,1400,1400,Merge branch 'Ludwing' of https://github.com/MISO4203-201610/HomeService-Back into Ludwing
+807ec31,ludwingbd79@gmail.com,Mon Apr 18 19:43:19 2016 -0500,1292,1290,1621,1621,2228,2228,1159,1159,R10 arreglo de errores de compilacion
+c50bfef,j.garcia100@uniandes.edu.co,Mon Apr 18 16:40:02 2016 -0500,1513,1290,1851,1621,2523,2228,1400,1159,Merge
+e669b6b,j.garcia100@uniandes.edu.co,Mon Apr 18 16:38:45 2016 -0500,1277,1290,1851,1621,2238,2228,1400,1159,Merge branch 'R9'
+303d6a7,j.garcia100@uniandes.edu.co,Mon Apr 18 16:38:29 2016 -0500,1277,1277,1851,1851,2238,2238,1400,1400,R9
+94c1159,ludwingbd79@gmail.com,Mon Apr 18 16:33:02 2016 -0500,1290,1054,1621,1621,2228,1943,1159,1159,R10- creacion de servicos para crar chats y enviar mensajes
+485bf59,j.garcia100@uniandes.edu.co,Mon Apr 18 16:27:01 2016 -0500,1277,1054,1851,1621,2238,1943,1400,1159,Merge pull request #17 from MISO4203-201610/R9
+d051e5d,j.garcia100@uniandes.edu.co,Mon Apr 18 16:13:45 2016 -0500,1277,1054,1851,1621,2238,1943,1400,1159,Merge branch 'master' into R9
+67913b3,j.garcia100@uniandes.edu.co,Mon Apr 18 15:56:45 2016 -0500,1221,1331,1851,2071,2227,2298,1400,1401,R9 PriceEntity deleted
+e847bb8,j.garcia100@uniandes.edu.co,Mon Apr 18 15:32:10 2016 -0500,1331,1334,2071,2071,2298,2300,1401,1406,R9
+48fba12,j.garcia100@uniandes.edu.co,Mon Apr 18 14:39:12 2016 -0500,1334,1334,2071,2071,2300,2300,1406,1406,Merge branch 'R8' into R9
+725c1a6,j.garcia100@uniandes.edu.co,Mon Apr 18 05:37:40 2016 -0500,1322,1334,2054,2071,1952,2300,1320,1406,Merge pull request #16 from MISO4203-201610/R6
+4971ca5,jhoning.soft@gmail.com,Sun Apr 17 23:44:48 2016 -0500,1322,1322,2054,2054,1952,1967,1320,1320,R6 - Cambio de request
+dec6be7,jhoning.soft@gmail.com,Sun Apr 17 22:45:59 2016 -0500,1322,1266,2054,2054,1967,1941,1320,1320,R6 - Logica back
+d22c195,jc.cerquera10@uniandes.edu.co,Sun Apr 17 20:00:09 2016 -0500,1334,1320,2071,2071,2300,2274,1406,1406,implementación R8
+7c1d68e,j.garcia100@uniandes.edu.co,Sun Apr 17 18:54:15 2016 -0500,1308,1308,2071,2071,2056,2056,1406,1406,R9 finished
+6ba173e,jc.cerquera10@uniandes.edu.co,Sun Apr 17 11:21:08 2016 -0500,1320,1308,2071,2071,2274,2056,1406,1406,Implementación de servicio de solicitud de cotización
+811d7c5,j.garcia100@uniandes.edu.co,Sat Apr 16 21:57:26 2016 -0500,1308,1299,2071,2071,2056,2045,1406,1406,R9 adding field
+2d43eff,j.garcia100@uniandes.edu.co,Wed Apr 13 21:13:56 2016 -0500,1299,1299,2071,2071,2045,2033,1406,1391,R9 Service and test without data
+d744734,j.garcia100@uniandes.edu.co,Wed Apr 13 19:55:16 2016 -0500,1299,1297,2071,2071,2033,1991,1391,1320,R9 Converters and tests
+2a22f17,j.garcia100@uniandes.edu.co,Mon Apr 11 21:11:44 2016 -0500,1297,1297,2071,2071,1991,1941,1320,1320,R9 DTO
+f68a9de,j.garcia100@uniandes.edu.co,Mon Apr 11 06:26:53 2016 -0500,1297,1297,2071,2081,1941,1941,1320,1320,R9 Logic and LogicTest
+551bc3c,j.garcia100@uniandes.edu.co,Mon Apr 11 06:22:49 2016 -0500,1297,1292,2081,2064,1941,1941,1320,1320,R9 test logic
+68bf89b,j.garcia100@uniandes.edu.co,Mon Apr 11 05:48:57 2016 -0500,1292,1279,2064,2059,1941,1941,1320,1320,R9 Persistence: PriceEntity Persistense fing by customer
+38e0f55,j.garcia100@uniandes.edu.co,Sun Apr 10 19:15:23 2016 -0500,1279,1266,2059,2054,1941,1941,1320,1320,R9 persistence
+6e6dc04,j.garcia100@uniandes.edu.co,Sun Apr 10 17:25:46 2016 -0500,1266,1266,2054,2054,1941,1941,1320,1320,Merge pull request #15 from MISO4203-201610/R8
+fdd2001,j.garcia100@uniandes.edu.co,Sun Apr 10 17:14:06 2016 -0500,1266,1266,2054,2054,1941,1941,1320,1320,Merge branch 'master' into R8
+121c9b7,j.garcia100@uniandes.edu.co,Sun Apr 10 16:58:41 2016 -0500,1054,1054,1621,1621,1941,1941,1320,1231,NF15 5974324 ContractorConverterCoverage
+76f62cb,jc.cerquera10@uniandes.edu.co,Sun Apr 10 16:47:56 2016 -0500,1266,1054,2054,1621,1941,1941,1231,1231,Merge origin/R8 into R8
+a5ab350,jc.cerquera10@uniandes.edu.co,Sun Apr 10 16:44:36 2016 -0500,1266,1266,2054,2054,1943,1943,1159,1159,ajuste test unitarios
+484f71a,j.garcia100@uniandes.edu.co,Sun Apr 10 15:48:10 2016 -0500,1266,1266,2054,2054,1941,1943,1231,1159,Merge branch 'master' into R8
+ac1bb34,j.garcia100@uniandes.edu.co,Sun Apr 10 15:42:53 2016 -0500,1054,1054,1621,1621,1941,1943,1231,1159,NF 5974323 CustomerConverter coverage
+0a83c22,jc.cerquera10@uniandes.edu.co,Fri Apr 8 19:56:21 2016 -0500,1266,1054,2054,1621,1943,1943,1159,1159,Creación de entidades ciclo 3
+9a674d0,j.garcia100@uniandes.edu.co,Sun Mar 13 19:54:54 2016 -0500,1054,1054,1621,1621,1943,1943,1159,1159,Merge pull request #14 from MISO4203-201610/R5
+54844ec,ludwingbd79@gmail.com,Sun Mar 13 17:18:10 2016 -0500,1027,1027,1621,1621,1939,1939,1159,1159,LBD Arregando problema con perfil contractor
+458b271,ls.talero21@uniandes.edu.co,Sun Mar 13 16:13:15 2016 -0500,1054,1048,1621,1621,1945,1945,1159,1159,Ajuste WorkExperienceEntity
+6ac995e,ls.talero21@uniandes.edu.co,Sun Mar 13 15:04:36 2016 -0500,1048,1027,1621,1621,1945,1941,1159,1159,Requerimiento 5 Back
+c15ad51,jc.cerquera10@uniandes.edu.co,Sun Mar 13 14:08:02 2016 -0500,1027,1027,1621,1621,1939,1938,1159,1159,Ajustes R3
+fec7efe,jc.cerquera10@uniandes.edu.co,Sun Mar 13 14:01:12 2016 -0500,1027,1027,1621,1621,1938,1941,1159,1159,Ajustes R3
+786b3e7,j.garcia100@uniandes.edu.co,Sat Mar 12 20:30:02 2016 -0500,1027,1027,1621,1621,1941,1941,1159,1159,Merge pull request #13 from MISO4203-201610/R1
+dbafedf,j.garcia100@uniandes.edu.co,Sat Mar 12 19:59:44 2016 -0500,1027,1027,1621,1621,1941,1941,1159,1159,Merge R1
+5a1e342,j.garcia100@uniandes.edu.co,Sat Mar 12 19:15:48 2016 -0500,1015,1027,1593,1621,1934,1941,1159,1159,Merge pull request #12 from MISO4203-201610/R4
+07c00e1,j.garcia100@uniandes.edu.co,Sat Mar 12 18:55:38 2016 -0500,1015,1027,1593,1621,1934,1941,1159,1159,R4 merge
+2864839,j.garcia100@uniandes.edu.co,Sat Mar 12 18:46:37 2016 -0500,918,918,1643,1643,1780,1780,1197,1208,R1 service ready
+7078bfc,j.garcia100@uniandes.edu.co,Sat Mar 12 17:48:20 2016 -0500,918,927,1643,1643,1780,1781,1208,1197,R1 service tests
+d954106,jhoning.soft@gmail.com,Sat Mar 12 17:35:18 2016 -0500,949,950,1571,1617,1776,1776,1147,1197,Cambios para pasar test unitarios
+8fa7804,j.garcia100@uniandes.edu.co,Sat Mar 12 16:17:12 2016 -0500,972,950,1637,1617,1929,1776,1209,1197,Merge pull request #11 from MISO4203-201610/R3
+1a91a6d,jhoning.soft@gmail.com,Sat Mar 12 16:15:50 2016 -0500,950,950,1617,1631,1776,1776,1197,1197,test
+9513d41,j.garcia100@uniandes.edu.co,Sat Mar 12 16:08:46 2016 -0500,972,950,1637,1631,1929,1776,1209,1197,Merge branch 'master' into R3
+1c1b2eb,j.garcia100@uniandes.edu.co,Sat Mar 12 16:05:24 2016 -0500,927,927,1643,1643,1781,1773,1197,1197,R1 progress
+eda95df,jc.cerquera10@uniandes.edu.co,Sat Mar 12 09:28:04 2016 -0500,972,927,1637,1643,1929,1773,1209,1197,Merge origin/R3 into R3
+4383f4c,jc.cerquera10@uniandes.edu.co,Sat Mar 12 09:25:24 2016 -0500,953,953,1625,1615,1907,1907,1200,1192,test unitarios R3
+6078642,j.garcia100@uniandes.edu.co,Fri Mar 11 20:51:07 2016 -0500,927,926,1643,1618,1773,1773,1197,1197,R1 Logic tests ready
+46744b5,j.garcia100@uniandes.edu.co,Fri Mar 11 18:16:11 2016 -0500,972,926,1627,1618,1929,1773,1201,1197,Merge pull request #9 from MISO4203-201610/R3
+6651e97,j.garcia100@uniandes.edu.co,Fri Mar 11 18:05:38 2016 -0500,972,926,1627,1618,1929,1773,1201,1197,Merge branch 'master' into R3
+10ed326,j.garcia100@uniandes.edu.co,Fri Mar 11 18:01:19 2016 -0500,972,926,1615,1618,1927,1773,1197,1197,Merge branch 'master' into R3
+de42965,j.garcia100@uniandes.edu.co,Fri Mar 11 17:34:51 2016 -0500,906,926,1627,1618,1775,1773,1201,1197,Merge pull request #10 from MISO4203-201610/Ludwing
+ca54a0a,j.garcia100@uniandes.edu.co,Fri Mar 11 17:31:05 2016 -0500,926,913,1618,1615,1773,1773,1197,1197,R1
+4ee8043,ludwingbd79@gmail.com,Fri Mar 11 15:55:05 2016 -0500,906,906,1627,1627,1775,1776,1201,1201,LBD 11032016 Actualización manejo archivo properties
+5bf264a,ludwingbd79@gmail.com,Fri Mar 11 15:40:21 2016 -0500,906,906,1627,1627,1776,1776,1201,1201,LBD 11032016  Eliminaciòn de issues critical
+4b40cb0,ludwingbd79@gmail.com,Fri Mar 11 07:59:32 2016 -0500,906,906,1627,1627,1776,1776,1201,1201,LBD Ignorar cambios en archivos .properties
+120e9dd,ludwingbd79@gmail.com,Fri Mar 11 07:53:12 2016 -0500,906,906,1627,1627,1776,1776,1201,1201,LBD 11032016 Borrnando log4jproperties para hacer merge con master
+f4179d5,jhoning.soft@gmail.com,Thu Mar 10 23:55:38 2016 -0500,950,951,1631,1631,1776,1776,1197,1197,test
+7483ff4,jhoning.soft@gmail.com,Thu Mar 10 23:49:01 2016 -0500,951,951,1631,1631,1776,1776,1197,1197,test
+a0caff7,jhoning.soft@gmail.com,Thu Mar 10 23:35:36 2016 -0500,951,951,1631,1631,1776,1776,1197,1197,Cascade all
+c1d75a7,jhoning.soft@gmail.com,Thu Mar 10 23:18:45 2016 -0500,951,951,1631,1631,1776,1776,1197,1197,t
+36b5c89,jhoning.soft@gmail.com,Thu Mar 10 23:13:00 2016 -0500,951,951,1631,1633,1776,1776,1197,1197,test
+c09bea2,jhoning.soft@gmail.com,Thu Mar 10 22:58:50 2016 -0500,951,951,1633,1615,1776,1776,1197,1197,test
+fb37b20,jhoning.soft@gmail.com,Thu Mar 10 22:31:24 2016 -0500,951,951,1615,1615,1776,1777,1197,1197,R4 - Cambio firma de servicio
+accb13d,j.garcia100@uniandes.edu.co,Thu Mar 10 20:09:43 2016 -0500,906,951,1627,1615,1776,1777,1201,1197,merge
+b41a5f0,j.garcia100@uniandes.edu.co,Thu Mar 10 20:02:38 2016 -0500,951,951,1615,1615,1777,1777,1197,1197,Merge branch 'master' into R4
+70bfb47,j.garcia100@uniandes.edu.co,Thu Mar 10 20:02:00 2016 -0500,913,906,1615,1615,1773,1773,1197,1197,R1 progress
+77fdc58,jc.cerquera10@uniandes.edu.co,Wed Mar 9 21:47:54 2016 -0500,953,887,1615,1615,1907,1753,1192,1192,implementacion R3
+eb35970,ludwingbd79@gmail.com,Wed Mar 9 18:55:50 2016 -0500,878,878,1627,1627,1731,1732,1196,1196,LBD 09032016 agrega log4j properties
+7d90a0c,ludwingbd79@gmail.com,Wed Mar 9 18:51:52 2016 -0500,878,878,1627,1615,1732,1725,1196,1192,LBD 09032016 crear log para las excepciones con log4j y pruebas unitarias
+5171ab6,jhoning.soft@gmail.com,Mon Mar 7 23:54:15 2016 -0500,932,932,1615,1623,1757,1757,1192,1192,Revert
+4832deb,jhoning.soft@gmail.com,Mon Mar 7 22:58:31 2016 -0500,932,932,1623,1628,1757,1757,1192,1192,Change test
+2e469ac,jhoning.soft@gmail.com,Mon Mar 7 22:49:19 2016 -0500,932,931,1628,1628,1757,1757,1192,1192,Cascade persist
+f18424c,jhoning.soft@gmail.com,Mon Mar 7 22:24:33 2016 -0500,931,887,1628,1615,1757,1753,1192,1192,R4 - backend, consultar contractors por nombre de skill
+05b29d7,j.garcia100@uniandes.edu.co,Mon Mar 7 22:06:20 2016 -0500,906,906,1615,1615,1773,1773,1197,1192,Improving test for workexperience in api
+9ea9966,j.garcia100@uniandes.edu.co,Mon Mar 7 15:02:56 2016 -0500,906,906,1615,1615,1773,1773,1192,1192,Merge pull request #7 from MISO4203-201610/Ludwing
+d9827f0,ludwingbd79@gmail.com,Mon Mar 7 11:59:40 2016 -0500,878,887,1615,1615,1725,1735,1192,1192,LBD borrando calification
+4e7da0c,ludwingbd79@gmail.com,Mon Mar 7 11:42:15 2016 -0500,887,970,1615,1615,1735,1846,1192,1192,Revert "LBD actualizar serviceRequest"
+79b6245,j.garcia100@uniandes.edu.co,Sun Mar 6 21:00:39 2016 -0500,887,970,1615,1615,1753,1846,1192,1192,Merge pull request #6 from MISO4203-201610/R3
+9adf242,jc.cerquera10@uniandes.edu.co,Sun Mar 6 20:21:47 2016 -0500,887,887,1615,1615,1753,1745,1192,1192,correccion persistencia workexperience y service de profile
+42a88de,ludwingbd79@gmail.com,Fri Mar 4 15:05:35 2016 -0500,887,889,1615,1615,1745,1745,1192,1192,LBD arreglo contracto ciudad y telefono
+0f56c85,j.garcia100@uniandes.edu.co,Fri Mar 4 12:52:45 2016 -0500,889,889,1615,1615,1745,1745,1192,1192,Merge pull request #5 from MISO4203-201610/luis
+a8d8b4c,j.garcia100@uniandes.edu.co,Fri Mar 4 12:43:18 2016 -0500,889,889,1615,1615,1745,1747,1192,1192,Merge
+d5bede8,j.garcia100@uniandes.edu.co,Fri Mar 4 12:36:04 2016 -0500,889,889,1615,1615,1747,1747,1192,1192,Merge
+545cf6c,ludwingbd79@gmail.com,Fri Mar 4 11:27:02 2016 -0500,970,887,1615,1615,1846,1735,1192,1192,LBD actualizar serviceRequest
+21e1035,ludwingbd79@gmail.com,Fri Mar 4 10:53:53 2016 -0500,887,878,1615,1615,1735,1714,1192,1192,LBD actualizacion serviceRequest service
+6ad5b6a,ludwingbd79@gmail.com,Thu Mar 3 14:21:19 2016 -0500,878,859,1615,1615,1714,1705,1192,1192,LBD Prueba
+7e78514,j.garcia100@uniandes.edu.co,Mon Feb 29 21:01:36 2016 -0500,881,859,1615,1615,1735,1705,1192,1192,Merge branch 'camilo'
+d9bd6b9,j.garcia100@uniandes.edu.co,Mon Feb 29 21:01:09 2016 -0500,881,859,1615,1615,1735,1705,1192,1192,Merge
+d80acc9,j.garcia100@uniandes.edu.co,Sun Feb 28 21:12:38 2016 -0500,874,874,1615,1615,1725,1725,1192,1192,Travis status
+592b78f,j.garcia100@uniandes.edu.co,Sun Feb 28 21:08:21 2016 -0500,874,874,1615,1615,1725,1725,1192,1192,Merge pull request #1 from MISO4203-201610/Ludwing
+349c7b4,j.garcia100@uniandes.edu.co,Sun Feb 28 21:07:55 2016 -0500,867,874,1615,1615,1715,1725,1192,1192,Merge branch 'master' of https://github.com/MISO4203-201610/HomeService-Back
+3f279d5,j.garcia100@uniandes.edu.co,Sun Feb 28 21:07:17 2016 -0500,867,874,1615,1615,1715,1725,1192,1192,Merge branch 'jhon0010'
+191385f,j.garcia100@uniandes.edu.co,Sun Feb 28 21:06:08 2016 -0500,867,874,1615,1615,1715,1725,1192,1192,Merge
+a668031,jhoning.soft@gmail.com,Sun Feb 28 19:30:01 2016 -0500,860,852,1615,1615,1705,1695,1192,1192,Se agrega el campo telefono a la entidad contractor se agregan configuraciones stormppath
+7d2b9a7,ls.talero21@uniandes.edu.co,Sun Feb 28 17:41:10 2016 -0500,860,852,1615,1615,1705,1695,1192,1192,Nuevo campo en contractor
+f8792d5,j.garcia100@uniandes.edu.co,Sun Feb 28 10:41:03 2016 -0500,859,852,1615,1615,1705,1695,1192,1192,Merge pull request #2 from MISO4203-201610/jair
+84ebcdc,j.garcia100@uniandes.edu.co,Sun Feb 28 10:16:16 2016 -0500,859,852,1615,1615,1705,1695,1192,1192,Adding hours to workExperience
+52b622a,jc.cerquera10@uniandes.edu.co,Sat Feb 27 22:19:44 2016 -0500,859,852,1615,1615,1705,1695,1192,1192,inicial
+fd5fcf7,j.garcia100@uniandes.edu.co,Sat Feb 27 22:17:50 2016 -0500,852,852,1615,1615,1695,1695,1192,1192,Fixing __pm jndi allow-non-component-callers='true'
+ac74f76,j.garcia100@uniandes.edu.co,Sat Feb 27 21:54:40 2016 -0500,852,852,1615,1615,1695,1695,1192,1192,Fixing __pm jndi with https://blogs.oracle.com/brunoborges/entry/configure_datasources_for_maven_embedded
+4b9508a,ludwingbd79@gmail.com,Sat Feb 27 16:54:33 2016 -0500,859,852,1615,1615,1705,1695,1192,1192,LBD 27022016
+0f61b90,j.garcia100@uniandes.edu.co,Sat Feb 27 16:18:29 2016 -0500,852,852,1615,1615,1695,1695,1192,1192,Changing user configuration
+edb4427,j.garcia100@uniandes.edu.co,Sat Feb 27 16:04:44 2016 -0500,852,852,1615,1615,1695,1695,1192,1192,Changing user configuration
+d3fb6cb,j.garcia100@uniandes.edu.co,Sat Feb 27 07:39:46 2016 -0500,852,852,1615,1615,1695,1695,1192,1192,new user
+01a659e,j.garcia100@uniandes.edu.co,Sat Feb 27 07:23:28 2016 -0500,852,852,1615,1615,1695,1695,1192,1192,probando nuevamente con usuario stormpath con todos los grupos
+686461b,j.garcia100@uniandes.edu.co,Sat Feb 27 07:15:51 2016 -0500,852,852,1615,1615,1695,1695,1192,1192,variables para travis en repositorio
+ff6245b,j.garcia100@uniandes.edu.co,Sat Feb 27 07:10:49 2016 -0500,852,852,1615,1615,1695,1695,1192,1192,variables para travis reecnryoted
+212c6b8,j.garcia100@uniandes.edu.co,Sat Feb 27 06:50:53 2016 -0500,852,852,1615,1615,1695,1695,1192,1192,variables para travis, hace falta db para los usuarios
+b54ce92,jhonatan.alarcon.ariza@gmail.com,Tue Feb 16 15:34:25 2016 -0500,852,852,1615,1615,1695,1695,1192,1192,Cambio de nombre de proyecto
+2b7a6ce,jhonatan.alarcon.ariza@gmail.com,Tue Feb 16 15:31:41 2016 -0500,852,852,1615,1615,1695,1695,1192,1192,Cambio de nombre de proyecto
+901a99f,kaosterra@users.noreply.github.com,Wed Feb 10 14:39:10 2016 -0500,852,852,1615,1615,1695,1695,1192,1192,Update README.md
+0100297,jd.patino10@uniandes.edu.co,Wed Feb 10 13:54:32 2016 -0500,852,852,1615,1615,1695,1647,1192,1192,Editar usuarios
+03b0fab,kaosterra@gmail.com,Mon Feb 8 17:33:07 2016 -0500,852,852,1615,1615,1647,1647,1192,1192,jwt para todas las rutas
+6393ead,kaosterra@gmail.com,Mon Feb 8 17:17:20 2016 -0500,852,852,1615,1615,1647,1608,1192,1192,Servicio para añadir skills
+16d1e67,kaosterra@gmail.com,Mon Feb 8 16:19:26 2016 -0500,852,852,1615,1615,1608,1591,1192,1188,Solicitudes asociadas al usuario conectado
+7a54191,kaosterra@gmail.com,Mon Feb 8 15:14:30 2016 -0500,852,852,1615,1615,1591,1548,1188,1188,Perfil y catálogo
+f6472be,kaosterra@gmail.com,Mon Feb 8 14:37:06 2016 -0500,852,838,1615,1603,1548,1522,1188,1180,Inclusión de picture para perfil
+e6f3425,kaosterra@gmail.com,Thu Feb 4 15:56:10 2016 -0500,838,838,1603,1603,1522,1459,1180,1180,Perfil
+2b083bb,kaosterra@gmail.com,Thu Feb 4 13:42:01 2016 -0500,838,838,1603,1603,1459,1459,1180,1180,Se borra gitattributes
+382ef07,kaosterra@gmail.com,Thu Feb 4 13:39:04 2016 -0500,838,845,1603,1610,1459,1466,1180,1186,Regeneración
+f17fab6,kaosterra@gmail.com,Thu Feb 4 12:30:11 2016 -0500,845,845,1610,1610,1466,1442,1186,1186,Obtener Customer y Contractor
+1dbbac8,jhonatan.alarcon.ariza@gmail.com,Tue Feb 2 00:46:57 2016 -0500,845,,1610,,1442,,1186,,Commit Inicial
+c007ffd,jhonatan.alarcon.ariza@gmail.com,Tue Feb 2 00:44:27 2016 -0500,,1592,,1851,,2530,,1400,:boom::camel: Added .gitattributes & .gitignore files
